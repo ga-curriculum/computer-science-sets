@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Exercise](./assets/hero.png)
+# ![Computer Science - Sets - Exercise](./assets/hero.png)
 
 ## Time to Practice
 

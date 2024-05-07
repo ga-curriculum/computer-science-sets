@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Computer Science - Sets](./assets/hero.png)
 
 # Sets
 
