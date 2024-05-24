@@ -58,6 +58,31 @@ Passing the same data set through a set object will automatically remove any dup
 
 ![Sets vs. Arrays](./assets/set1.png)
 
+
+### Knowledge Check
+
+Imagine that you wanted to add the value `"bueller"` to this set. Where would this get inserted?
+
+![Insert Bueller](./assets/set2.png)
+
+1. At the beginning
+2. At the end
+3. Next to the other appearance of `"bueller"`
+4. It wouldn't get added
+
+<br>
+<details>
+<summary>
+Click for answer
+</summary>
+<br>
+It wouldn't get added
+
+Because sets can only store unique values, the data structure can detect whether or not the value you’re trying to add is present. If the value is already in the set (like "bueller" is here), you won’t be able to add it again!
+</details>
+<br>
+
+
 ## Sets Do It For You
 
 A set won’t allow you to add a value that’s already present. But, if you wanted to insert the user `"heather"` to this set you’d be able to, as it’s a new value! It would get added to the end of the set.
@@ -88,10 +113,11 @@ Given how recently they were added to the language, sets haven’t been widely a
 
 ## Let’s Talk About Interviews
 
-In a job interview, you might be asked to use some of the set methods we’ve looked at in this lesson. (You’ll have a chance to practice them on the next slide!)
+In a job interview, you might be asked to use some of the set methods we’ve looked at in this lesson. (You’ll have a chance to practice them in the next section!)
 
 If you’re hungry for more information on sets, take a dive deep [here](https://flaviocopes.com/javascript-data-structures-set/).
 
 <br>
 
 ![Brain](./assets/interviews.png)
+
